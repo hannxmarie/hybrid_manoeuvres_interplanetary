@@ -26,14 +26,3 @@ wet_mass = (1/R)*dry_mass
 totaldvv = [dv1 dv2 dvt];
 totaldvmag = sqrt(sum(totaldvv.^2))/1000
 totaldv = (dv1+dv2-dvt)/1000;
-
-%% Further work and questions
-% Do we have 130,000 kg constraint
-% Can we get whatever we launch to the Moon
-% What is the transfer time
-% Would power be feasable 
-% Simulate on GMAT?
-
-%% Positives
-% Matches up with the solar system delta V map
-% Under 130 tonnes so one launch
