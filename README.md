@@ -3,6 +3,7 @@
 Code for NASA's General Mission Analysis Tool (GMAT)
 
 Spacecraft: Human Mars Lander (HML)
+
 Transfer method: Orbit Raising
 
 ## Design Requirements
